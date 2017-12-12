@@ -3,6 +3,8 @@ Ansible
 
 ## Environment
 
+macOS High Sierra バージョン 10.13.2での環境構築
+
 ### Vagrant
 
 Vagrantbox.es (http://www.vagrantbox.es/) からお目当てのCentOS7を探してbox追加
